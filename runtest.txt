@@ -1,4 +1,4 @@
-Run the command
+Run the command to add the product in cart
 pytest .\test_AddToCart.py
 
 >>Run the command with report generation
