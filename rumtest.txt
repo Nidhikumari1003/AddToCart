@@ -1,0 +1,7 @@
+Run the command
+pytest .\test_AddToCart.py
+
+>>Run the command with report generation
+pytest .\test_AddToCart.py --html=reports/report.html 
+
+
